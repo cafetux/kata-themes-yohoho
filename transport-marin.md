@@ -57,7 +57,7 @@ Le trajet est alors gratuit, et le matelot gagne 1 Ducat/semaine compléte (on r
 ## Age légal
 Suivant les pays, l'âge qui définit la frontière entre les typologie de paxx change:
 
-- France: enfant < 16 <= jeune < 26 < adulte < 60 < senior
-- Espagne: enfant < 14 <= jeune < 28 < adulte < 50 < senior
-- Portugal: enfant < 12 <= jeune < 22 < adulte < 55 < senior
-- Angleterre: enfant < 17 <= jeune < 26 < adulte < 45 < senior
+- France: enfant < 16 <= jeune < 26 <= adulte < 60 <= senior
+- Espagne: enfant < 14 <= jeune < 28 <= adulte < 50 <= senior
+- Portugal: enfant < 12 <= jeune < 22 <= adulte < 55 <= senior
+- Angleterre: enfant < 17 <= jeune < 26 <= adulte < 45 <= senior
