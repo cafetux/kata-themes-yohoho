@@ -10,13 +10,16 @@ Votre MVP ne concernera que le devis, ce qui sera déjà pas mal pour l'époque.
 
 ## format d'entrée
 Votre interface devra accepter le format suivant: 
+```javascript
 {
   "nbjours":int,
   "ages":int[],
   "options":String[], 
-  "departureDate":"1540-11-15",
-  "returnDate":"1540-12-09",
+  "DateDepart":"1540-11-15",
+  "DateRetour":"1540-12-09",
+  "Pays":String
 }
+```
 
 ## Calcul de base
 
