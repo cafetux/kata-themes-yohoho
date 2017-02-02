@@ -17,7 +17,8 @@ Votre interface devra accepter le format suivant:
   "options":String[], 
   "DateDepart":"1540-11-15",
   "DateRetour":"1540-12-09",
-  "Pays":String
+  "Pays":String,
+  "navire":String
 }
 ```
 
