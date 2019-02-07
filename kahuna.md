@@ -54,3 +54,6 @@ A la fin de la deuxiéme manche, le joueur possédant le plus d'îles gagne 2pts
 A la fin de la 3e manche, on compte le nombre de point:
 Chaque île possédée donne 1pts, auxquels ont ajoute les bonus de manche (1 pts pour la première manche, 2 pts pour la 2e).
 
+# Carte
+
+![Archipel Kahuna](kahuna-map.jpg)
