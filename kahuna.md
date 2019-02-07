@@ -8,8 +8,18 @@ Contrôler l'archipel de Kahuna en possédant un maximum de ses îles.
 
 # Description
 
-Les îles sont reliées par des liaisons, sur lesquelles ils est possible de construire des ponts.
-Lorsqu'un joueur a placé des ponts sur plus de la moitié des liaisons éxistante sur une île, cette île lui appartient.
+Les îles sont reliées par des liaisons, sur lesquelles il est possible de construire des ponts.
+Lorsqu'un joueur a placé des ponts sur plus de la moitié des liaisons existante sur une île, cette île lui appartient.
+
+# Mise en place
+
+La carte est positionnée vierge.
+
+Chaque joueur récupére les ponts et pions de sa couleur.
+
+Chaque joueur reçoit 3 cartes.
+
+3 cartes sont positionnées face visible sur le bord du plateau, et représente la pioche. Le reste des carte est disposé e ntas, face caché.
 
 # Déroulement du jeux
 
