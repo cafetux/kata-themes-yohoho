@@ -13,11 +13,13 @@ Lorsqu'un joueur a placé des ponts sur plus de la moitié des liaisons existant
 
 # Mise en place
 
-La carte est positionnée vierge.
+La carte est positionnée vierge entre les 2 joueurs
 
 Chaque joueur récupére les ponts et pions de sa couleur.
 
-Chaque joueur reçoit 3 cartes.
+Chaque joueur reçoit 3 cartes îles.
+
+Cartes îles:24 cartes (2 de chaque île)
 
 3 cartes sont positionnées face visible sur le bord du plateau, et représente la pioche. Le reste des carte est disposé e ntas, face caché.
 
@@ -57,3 +59,6 @@ Chaque île possédée donne 1pts, auxquels ont ajoute les bonus de manche (1 pt
 # Carte
 
 ![Archipel Kahuna](kahuna-map.jpg)
+éditions Tilsit, Kosmos collection.
+Création graphique: Studio graphique Krüger, Claus Stephan
+
