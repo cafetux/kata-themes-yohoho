@@ -1,7 +1,7 @@
 # Transport maritime
 
-Avec la récente découverte de l'amérique, le transport de personnes sur les océans semble être un business qu'il ne faut en aucun cas laisser passer.
-Manque de chance, vous n'avez pas de bateaux..... vous décidez donc de monter une startup qui fournira un service pour interfacer les usagers et les navigateurs. 
+Nous sommes en 1515, et avec la récente "découverte" de l'amérique par les européens, le transport de personnes sur les océans semble être un business qu'il ne faut en aucun cas laisser passer.
+Manque de chance, vous n'avez pas de bateaux ni d'argent pour financer une expédition.....vous décidez donc de monter une startup qui fournira un service pour interfacer les usagers et les navigateurs. 
 
 
 # MVP
